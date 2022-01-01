@@ -1,4 +1,7 @@
 # recaptcha-auth
+https://kind-lovelace-e97093.netlify.app/
+it caanot be seen on hosting because of api key
+
 it tells difference between human and robot <br>
 it also check by select images dialog box
 <br>
